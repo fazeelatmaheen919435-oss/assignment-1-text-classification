@@ -1,0 +1,7 @@
+Epoch 1: train_loss=0.2545 train_acc=0.9274 val_loss=0.2089 val_acc=0.9474
+Epoch 2: train_loss=0.1775 train_acc=0.9693 val_loss=0.3192 val_acc=0.9342
+Epoch 3: train_loss=0.0693 train_acc=0.9832 val_loss=0.4733 val_acc=0.9211
+Epoch 4: train_loss=0.0277 train_acc=0.9916 val_loss=0.3194 val_acc=0.9079
+Epoch 5: train_loss=0.0048 train_acc=0.9972 val_loss=0.3113 val_acc=0.9211
+Test loss=0.2293 test accuracy=0.9189
+Training and evaluation runtime: 43.044 seconds
